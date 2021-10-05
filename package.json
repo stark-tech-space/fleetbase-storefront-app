@@ -27,8 +27,8 @@
     "axios": "^0.21.1",
     "countries-list": "^2.6.1",
     "postcss": "^8.3.5",
-    "react": "17.0.1",
-    "react-native": "0.64.2",
+    "react": "17.0.2",
+    "react-native": "0.66.0",
     "react-native-actions-sheet": "^0.5.4",
     "react-native-animated-radio-button": "^2.0.6",
     "react-native-bouncy-checkbox": "^2.1.2",
@@ -64,9 +64,9 @@
     "babel-jest": "^26.6.3",
     "eslint": "7.14.0",
     "jest": "^26.6.3",
-    "metro-react-native-babel-preset": "^0.64.0",
-    "react-native-svg": "^12.1.1",
-    "react-test-renderer": "17.0.1"
+    "metro-react-native-babel-preset": "^0.66.2",
+    "react-test-renderer": "17.0.2",
+    "react-native-svg": "^12.1.1"
   },
   "jest": {
     "preset": "react-native"
